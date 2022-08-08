@@ -11,4 +11,4 @@ From the project, I expect ~~treats :)~~ to understand the basics of QA, get a c
 
 And yes, thank you for this opportunity 🙌
 
-                                                                                                            MAX SLAVIANSKY
+                                                                                                MAX SLAVIANSKY
