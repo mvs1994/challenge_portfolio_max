@@ -12,3 +12,55 @@ From the project, I expect ~~treats :)~~ to understand the basics of QA, get a c
 And yes, thank you for this opportunity 🙌
 
                                                                                                 MAX SLAVIANSKY
+# Task 2 Selectors
+
+## Subtask1: Searching for selectors on the login pageList all the elements that are on the login page.
+
+* **Scouts panel**
+
+//*[@id="__next"]/form/div/div[1]/h5
+
+//*[text()="Scouts Panel"]
+
+//child::div/h5
+
+* **Remind Password**
+
+//*[@id="__next"]/form/div/div[1]/a
+
+//*[text()="Remind password"]
+
+//child::div/a
+
+* **Login**
+
+//*[@id="login"]
+
+//*[text()="Login"]
+
+#login
+
+* **Password**
+
+//*[@id="password"]
+
+//*[text()="Password"]
+
+#password-label
+
+
+* **SIGN IN**
+
+//*[text()="Sign in"]
+
+//*[contains(@class, "MuiButton")]
+
+//*[@id="__next"]/form/div/div[2]/button
+
+* **Language**
+
+//*[@id="__next"]/form/div/div[2]/div/div
+
+/html/body/div[1]/form/div/div[2]/div/div
+
+#__next > form > div > div.MuiCardActions-root > div > div
